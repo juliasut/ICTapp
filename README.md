@@ -1,4 +1,4 @@
-# ICTapp
+# [ICTapp](https://vimeo.com/676856071)
 Equalithon - one week long hackathon that addresses issues in the workplace related to inequality.
 
 ## The Challenge
